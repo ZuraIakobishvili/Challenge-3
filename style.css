@@ -1,0 +1,16 @@
+.main-conteiner {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#fde3e3;
+}
+ 
+h1 {
+    margin:center;
+}
+
+.input-class {
+    width:320px;
+}
+
